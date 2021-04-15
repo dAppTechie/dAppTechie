@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Chad!
+### Hi there 👋, I'm https://img.shields.io/badge/Chad-Parker-yellow!
 <hr>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ChimpBiteX)
+![Twitter Follow](https://img.shields.io/twitter/follow/ChimpBiteX)![GitHub followers](https://img.shields.io/github/followers/ChimpBite)
 
 <!--
 **ChimpBite/ChimpBite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
