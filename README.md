@@ -1,4 +1,4 @@
-### Hi there 👋, ![](https://img.shields.io/badge/I'm-Chad-yellow)!
+### Hi there 👋, I'm Chad!
 <hr>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChimpBiteX)![GitHub followers](https://img.shields.io/github/followers/ChimpBite)
