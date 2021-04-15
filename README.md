@@ -1,10 +1,19 @@
 ### Hi there 👋, I'm Chad!
 📫 How to reach me:  <a href="mailto:hello@chadleeparker.me" >EMAIL</a>
-<hr>
+---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChimpBiteX)![GitHub followers](https://img.shields.io/github/followers/ChimpBite)
 
 Veteran Full Stack Developer well-versed in numerous programming tools and languages. Proficient in both backend and frontend development. Highly effective at working on any part of the development process in an efficient and accurate manner. Hardworking professional with remarkable technical abilities developed over 10 years of experience in the field.
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="React Native" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDb" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Aws" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="50" height="50"/>
+
+---
+
 
 <!--
 **ChimpBite/ChimpBite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
