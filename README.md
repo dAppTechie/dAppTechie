@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Chad!
+<hr>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChimpBiteX)
 
