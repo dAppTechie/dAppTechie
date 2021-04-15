@@ -14,8 +14,6 @@ Veteran Full Stack Developer well-versed in numerous programming tools and langu
 
 ---
 
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChimpBite&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
