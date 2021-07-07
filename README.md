@@ -2,7 +2,7 @@
 📫 How to reach me:  <a href="mailto:hello@chadleeparker.me" >EMAIL</a>
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ChimpBiteX)  ![GitHub followers](https://img.shields.io/github/followers/ChimpBite)
+![Twitter Follow](https://img.shields.io/twitter/follow/imchad_me)  ![GitHub followers](https://img.shields.io/github/followers/imchad-me)
 
 Veteran Full Stack Developer well-versed in numerous programming tools and languages. Proficient in both backend and frontend development. Highly effective at working on any part of the development process in an efficient and accurate manner. Hardworking professional with remarkable technical abilities developed over 10 years of experience in the field.
 
@@ -16,14 +16,14 @@ Veteran Full Stack Developer well-versed in numerous programming tools and langu
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChimpBite&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchad-me&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChimpBite&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchad-me&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
-**ChimpBite/ChimpBite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imchad-me/imchad-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
