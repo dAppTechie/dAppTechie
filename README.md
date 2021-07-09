@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/imchad_me)  ![GitHub followers](https://img.shields.io/github/followers/imchad-me)
 
-Veteran Full Stack Developer well-versed in numerous programming tools and languages. Proficient in both backend and frontend development. Highly effective at working on any part of the development process in an efficient and accurate manner. Hardworking professional with remarkable technical abilities developed over 10 years of experience in the field.
+Veteran Full Stack Developer well-versed in numerous programming tools and languages. Proficient in both backend and frontend development. Highly effective at working on any part of the development process in an efficient and accurate manner. Hardworking professional with remarkable technical abilities developed over 8 years of experience in the field.
 
 ---
 
