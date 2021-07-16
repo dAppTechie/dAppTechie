@@ -18,7 +18,8 @@ Veteran Full Stack Developer well-versed in numerous programming tools and langu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchad-me&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchad-me&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchad-me&theme=radical&count_private=true)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
