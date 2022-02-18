@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Chad!
-📫 How to reach me:  <a href="mailto:hello@chadleeparker.me" >EMAIL</a>
+📫 How to reach me:  <a href="mailto:chad.parker1207@gmail.com" >EMAIL</a>
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dAppTechie)  ![GitHub followers](https://img.shields.io/github/followers/dAppTechie)
@@ -10,7 +10,10 @@ Veteran Full Stack Developer well-versed in numerous programming tools and langu
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="React Native" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/csharp.svg" alt="csharp" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDb" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Aws" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/63312621/154695229-2e7438c7-849e-4d00-b0b9-a85ecbed4dda.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154695569-66c54f3a-df1a-4d3e-9703-e705830a8e00.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154695852-43c23ff5-dc64-4eb7-b2ac-05b27f6dc669.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154696028-1bea6248-8552-41de-b336-a056723fe3f4.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154696205-d892219c-3cff-4d82-8743-77ab04e166bb.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154696361-a6b4feb9-e653-4dce-86a1-3bde11f6afb3.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154696564-1b56cadd-08aa-4132-a11e-78de5ecbc480.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154696719-44d52722-e492-4ded-80a7-47551450b87b.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154696904-40a57405-d01b-4a9a-a2db-4dfd6b5b86db.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154697007-ee1d0c9b-1d5c-49ad-833a-ff2e24448a71.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154697218-b4929ca7-5be3-4c6a-9703-62f1995e15cb.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154698464-5c4129b6-decd-4ae8-801f-0761fe3cc237.svg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/63312621/154698575-8bdb7b71-4a4c-48f6-8275-0aaabab498f3.svg" width="100" height="100"/><img src="https://user-images.githubusercontent.com/63312621/154698723-470cde61-89bc-4d3b-8d3a-760b559308ea.svg" width="100" height="100"/>
+
+
+
 
 ---
 
