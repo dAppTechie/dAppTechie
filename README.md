@@ -2,9 +2,7 @@
 📫 How to reach me:  <a href="mailto:chad.parker1207@gmail.com" >EMAIL</a>
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/dAppTechie)  ![GitHub followers](https://img.shields.io/github/followers/dAppTechie)
-
-Veteran Full Stack Developer well-versed in numerous programming tools and languages. Proficient in both backend and frontend development. Highly effective at working on any part of the development process in an efficient and accurate manner. Hardworking professional with remarkable technical abilities developed over 8 years of experience in the field.
+![Twitter Follow](https://img.shields.io/twitter/follow/SlicingCode)  ![GitHub followers](https://img.shields.io/github/followers/dAppTechie)
 
 ---
 
